@@ -31,3 +31,4 @@ reply {content} - Thread Only
 close - Thread Only
 set
 ````
+[![Run on Repl.it](https://repl.it/badge/github/GDMX-DEV-OFICIAL/ModMail)](https://repl.it/github/GDMX-DEV-OFICIAL/ModMail)
